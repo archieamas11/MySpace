@@ -1,0 +1,29 @@
+=================================
+ My Windows Setup - Applications
+=================================
+
+--- Essential Applications ---
+
+1.  NanaZip
+2.  Nilesoft Shell
+3.  FxSound
+4.  Laragon (with Composer)
+5.  Git
+6.  Visual Studio Code
+7.  Bulk Crap Uninstaller
+8.  Lively Wallpaper
+9.  AltSnap
+10. Node.js
+11. AutoHotkey
+12. Visual C++ Runtimes (All-in-One)
+13. MSI Afterburner
+14. Core Temp
+15. PowerToys
+16. Revo Uninstaller
+17. Free Download Manager
+18. UniGetUI
+
+--- Optional Applications ---
+
+1. SeleenUI
+2. Windhawk
