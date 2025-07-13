@@ -24,6 +24,8 @@
 18. UniGetUI
 19. LocalSend
 20. Fluent Search
+21. QuickLook
+22. Notepad++
 
 --- Optional Applications ---
 

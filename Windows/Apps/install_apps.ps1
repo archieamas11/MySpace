@@ -64,6 +64,7 @@ winget install -e --id Microsoft.PowerToys
 winget install -e --id RevoUninstaller.RevoUninstaller
 winget install -e --id SoftDeluxe.FreeDownloadManager
 winget install --exact --id MartiCliment.UniGetUI --source winget
+winget install -e --id Notepad++.Notepad++
 
 Write-Host "Essential applications installation complete."
 Write-Host ""
