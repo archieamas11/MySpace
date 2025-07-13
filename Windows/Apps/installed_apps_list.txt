@@ -23,6 +23,7 @@
 17. Free Download Manager
 18. UniGetUI
 19. LocalSend
+20. Fluent Search
 
 --- Optional Applications ---
 
