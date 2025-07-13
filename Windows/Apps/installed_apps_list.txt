@@ -22,6 +22,7 @@
 16. Revo Uninstaller
 17. Free Download Manager
 18. UniGetUI
+19. LocalSend
 
 --- Optional Applications ---
 

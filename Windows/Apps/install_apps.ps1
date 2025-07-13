@@ -48,6 +48,7 @@ winget install -e --id rocksdanister.LivelyWallpaper
 winget install -e --id AltSnap.AltSnap
 winget install -e --id OpenJS.NodeJS
 winget install -e --id AutoHotkey.AutoHotkey
+winget install localsend
 
 # Download Visual C++ Runtimes
 $vcRuntimesUrl = "https://us3-dl.techpowerup.com/files/to6d7rYZ9ziXDvIKZefjYg/1752175249/Visual-C-Runtimes-All-in-One-Jun-2025.zip"
