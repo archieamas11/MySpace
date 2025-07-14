@@ -26,8 +26,8 @@
 20. Fluent Search
 21. QuickLook
 22. Notepad++
+23. KDE Connect
 
 --- Optional Applications ---
-
 1. SeleenUI
 2. Windhawk
