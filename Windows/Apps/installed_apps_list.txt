@@ -27,6 +27,7 @@
 21. QuickLook
 22. Notepad++
 23. KDE Connect
+24. OBS Studio
 
 --- Optional Applications ---
 1. SeleenUI
