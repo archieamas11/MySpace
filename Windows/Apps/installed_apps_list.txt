@@ -23,11 +23,16 @@
 17. Free Download Manager
 18. UniGetUI
 19. LocalSend
-20. Fluent Search
-21. QuickLook
-22. Notepad++
-23. KDE Connect
-24. OBS Studio
+20. QuickLook
+21. Notepad++
+22. KDE Connect
+23. OBS Studio
+24. FlowLauncher
+25. Everything
+26. Notepads
+27. https://github.com/ryanoasis/nerd-fonts
+28. https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/
+29. Steam
 
 --- Optional Applications ---
 1. SeleenUI
