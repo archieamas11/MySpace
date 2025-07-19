@@ -34,6 +34,7 @@
 28. https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/
 29. Steam
 30. ImageGlass
+31. https://www.stardock.com/products/groupy/?utm_source=stardock-software&utm_medium=groupy&utm_campaign=in-app-website&Referer=stardock
 
 --- Optional Applications ---
 1. SeleenUI
