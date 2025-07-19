@@ -33,6 +33,7 @@
 27. https://github.com/ryanoasis/nerd-fonts
 28. https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/
 29. Steam
+30. ImageGlass
 
 --- Optional Applications ---
 1. SeleenUI

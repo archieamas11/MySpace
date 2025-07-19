@@ -140,6 +140,7 @@ Install-App "OBSProject.OBSStudio" "OBS Studio"
 Install-App "Flow Launcher" "Flow Launcher"
 Install-App "JackieLiu.NotepadsApp" "Notepads"
 Install-App "Valve.Steam" "Steam"
+Install-App "DuongDieuPhap.ImageGlass" "Image Glass"
 
 # File Customizations
 Write-Host "Installing customizations..." -ForegroundColor Yellow
